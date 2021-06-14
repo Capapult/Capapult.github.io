@@ -1,0 +1,10 @@
+{
+  "testnet":{
+    "CAPAPCORP":"terra1lx0zh3fps6petq3v3kvxx7ymr288sgsk3sz4he",
+    "cUST":""
+  },
+  "mainnet":{
+    "CAPAPCORP":"",
+    "cUST":""
+  }
+}
