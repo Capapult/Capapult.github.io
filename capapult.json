@@ -1,10 +1,12 @@
 {
   "testnet":{
     "CAPAPCORP":"terra1lx0zh3fps6petq3v3kvxx7ymr288sgsk3sz4he",
+    "earn":"terra1umsyg3jp842700c2ya75430mlnmnk9dzpnwagt",
     "cUST":""
   },
   "mainnet":{
     "CAPAPCORP":"",
+    "earn":"",
     "cUST":""
   }
 }
