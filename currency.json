@@ -1,0 +1,98 @@
+[
+    {
+        "denom": "USD",
+        "fullName": "United States Dollar",
+        "coinName": "uusd",
+        "icon": "/currency/usd.svg"
+    },
+    {
+        "denom": "EUR",
+        "fullName": "Euro",
+        "coinName": "ueur",
+        "icon": "/currency/eur.svg"
+    },
+    {
+        "denom": "KRW",
+        "fullName": "South Korean won",
+        "coinName": "ukrw",
+        "icon": "/currency/krw.svg"
+    },
+    {
+        "denom": "SDR",
+        "fullName": "Special Drawing Rights",
+        "coinName": "usdr",
+        "icon": "/currency/sdr.svg"
+    },
+    {
+        "denom": "MNT",
+        "fullName": "Mongolian Tugrik",
+        "coinName": "umnt",
+        "icon": "/currency/mnt.svg"
+    },
+    {
+        "denom": "CNY",
+        "fullName": "Chinese Yuan",
+        "coinName": "ucny",
+        "icon": "/currency/cny.svg"
+    },
+    {
+        "denom": "JPY",
+        "fullName": "Japanese Yen",
+        "coinName": "ujpy",
+        "icon": "/currency/jpy.svg"
+    },
+    {
+        "denom": "GBP",
+        "fullName": "British pound sterling",
+        "coinName": "ugbp",
+        "icon": "/currency/gbp.svg"
+    },
+    {
+        "denom": "INR",
+        "fullName": "Indian Rupee",
+        "coinName": "uinr",
+        "icon": "/currency/inr.svg"
+    },
+    {
+        "denom": "CAD",
+        "fullName": "Canadian Dollar",
+        "coinName": "ucad",
+        "icon": "/currency/cad.svg"
+    },
+    {
+        "denom": "CHF",
+        "fullName": "Swiss Franc",
+        "coinName": "uchf",
+        "icon": "/currency/chf.svg"
+    },
+    {
+        "denom": "HKD",
+        "fullName": "Hong Kong Dollar",
+        "coinName": "uhkd",
+        "icon": "/currency/hkd.svg"
+    },
+    {
+        "denom": "SGD",
+        "fullName": "Singapore Dollar",
+        "coinName": "usgd",
+        "icon": "/currency/sgd.svg"
+    },
+    {
+        "denom": "AUD",
+        "fullName": "Australian Dollar",
+        "coinName": "uaud",
+        "icon": "/currency/aud.svg"
+    },
+    {
+        "denom": "THB",
+        "fullName": "Thai Baht",
+        "coinName": "uthb",
+        "icon": "/currency/thb.svg"
+    },
+    {
+        "denom": "SEK",
+        "fullName": "Swedish Krona",
+        "coinName": "usek",
+        "icon": "/currency/sek.svg"
+    }
+]
